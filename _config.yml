@@ -1,6 +1,6 @@
 name: godtinnhold_Test
 favicon: null
-layout_spectrum: 0.889017699053511
+layout_spectrum: 0.258
 typography_spectrum: 0.9694679367821664
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.3213483588770032
-  lightness: 0.021824853029102087
-  saturation: 0.8077209391631186
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 1
   rhythmicContrast: 0.2678946857340634
 purpose: []
