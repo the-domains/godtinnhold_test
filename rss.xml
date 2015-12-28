@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[godtinnhold_Test]]></title>
         <description><![CDATA[godtinnhold_Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/godtinnhold_test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 12:50:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 12:51:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/godtinnhold_test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[På web har kundene penger i hånden]]></title>
+            <description><![CDATA[<article><h1>På web har kundene penger i hånden</h1><h2>Her er noen enkle tips til din nettside:</h2><p>Så led dem raskt inn i fristelse!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7e132dc66cd01a46e7744a725a35d914172a360.jpg"></article>]]></description>
+            <link>https://thegrid.ai/godtinnhold_test/pa-web-har-kundene-penger-i-handen/index.html</link>
+            <guid isPermaLink="false">f6a88e7c-8580-4ce5-9581-6d277d88154a</guid>
+            <pubDate>Mon, 28 Dec 2015 12:50:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apples markedsføringsfilosofi]]></title>
             <description><![CDATA[<article><h1>Apples markedsføringsfilosofi</h1><h2>1) Empathy. </h2><p>Tre punkter fra 1977 preger fremdeles Apples markedsføring.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf8fdfb350de9498f09c2f8ca79696fc1a855c53.jpg"></article>]]></description>
-            <link>undefinedapples-markedsforingsfilosofi/index.html</link>
+            <link>https://thegrid.ai/godtinnhold_test/apples-markedsforingsfilosofi/index.html</link>
             <guid isPermaLink="false">ca9c2883-ff0c-4346-9a97-a09f714260e3</guid>
             <pubDate>Mon, 28 Dec 2015 12:50:17 GMT</pubDate>
         </item>
